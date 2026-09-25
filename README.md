@@ -247,3 +247,10 @@ Fast-Style-Transfer/
 4. **H. Zhang, I. Goodfellow, D. Metaxas, A. Odena (2019)**. "Self-Attention Generative Adversarial Networks". *ICML*. [[arXiv:1805.08318](https://arxiv.org/abs/1805.08318)]
 5. **S. Xie, R. Girshick, P. Dollár, Z. Tu, K. He (2017)**. "Aggregated Residual Transformations for Deep Neural Networks". *CVPR*. [[arXiv:1611.05431](https://arxiv.org/abs/1611.05431)]
 6. **D. Ulyanov, A. Vedaldi, V. Lempitsky (2016)**. "Instance Normalization: The Missing Ingredient for Fast Stylization". *arXiv:1607.08022*. [[arXiv:1607.08022](https://arxiv.org/abs/1607.08022)]
+
+> ## Acknowledgments & License
+>
+> - This project is licensed under the terms of the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+.
+> - Code architecture and implementation are inspired by Justin Johnson's [fast-neural-style](https://github.com/jcjohnson/fast-neural-style) (BSD 3-Clause License).
+> - The pretrained weights included in this repository were trained by us from scratch and are also provided under the MIT License.
